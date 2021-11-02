@@ -1,0 +1,53 @@
+﻿Lỗi và hạn chế của Unitapviet ver 1.0
+Chủ đề Unitapviet 1.0
+Đọc kỹ tại địa chỉ sau trước khi dùng font: http://sites.google.com/site/unitapviet/unitapviet-ver-10/thongbaouni1/loiuni1
+
+Do nhiều lý do, font chữ unitapviet ver 1.0 có nhiều sai sót và khác biệt so với sách giáo khoa và cách viết trong trường tiểu học.
+
+Bạn cần biết rõ những hạn chế này trước khi sử dụng vào việc tập viết cho con trẻ.
+
+1. Sự sai sót của chữ viết hoa
+
+Tất cả các chữ viết hoa trong font chữ unitapviet ver 1.0 đều sai so với mẫu chữ trong SGK. Cụ thể: nơi đặt bút bắt đầu chưa đúng, độ cong - nét cong các chữ không đúng.
+Do đó, đề nghị bạn không dùng font chữ unitapviet 1.0 cho việc tập viết chữ hoa.
+
+2. Sự khác biệt của mẫu chữ số
+
+Các chữ số "2,3,4,5,7" được BGD quy định viết theo 1 trong 2 kiểu !!!
+
+Do hạn chế về kỹ thuật nên toàn bộ số trong unitapviet ver 1.0 được vẽ theo kiểu viết 1. Hiện nay, các cháu học trong trường theo kiểu viết số 2.
+Do đó, tôi cũng đề nghị bạn không dùng font chữ unitapviet 1.0 cho việc tập viết chữ số.
+
+3. Sự khác biệt khi viết nối thành từ
+
+# Trong sách giáo khoa và cả sách bài tập, vài chữ viết khi nối lại: hoặc sửa đi đôi chút (chữ b,v với nét vòng xuống thấp)
+# hoặc được thêm các nét móc ở phía sau hoặc trước (chữ o khi viết liền với nguyên âm hoặc với chữ s)
+
+
+# Trong khi đó, font chữ không thể "linh động" như vậy được: các chữ cái trong Uni_tập_viết ver 1.0 hiện chỉ là các chữa cái đơn - và viết theo chuẩn. Do đó: khi viết nối sẽ chưa đúng yêu cầu: khoảng cách không đủ (trường hợp oa)
+# chưa nối lại được (trường hợp be,ve,b..,v..)
+
+Vì vậy, tôi cũng mong bạn CÂN NHẮC VÀ CẨN THẬN khi dùng font chữ Unitapviet 1.0 cho việc tập viết thành từ. 
+
+
+
+Lý do của tôi khi làm ra font chữ Unitapviet
+
+"Con mình sắp vào lớp 1 - và mình đang tự dạy cháu viết chữ. Sách cho các cháu học chữ, tập viết và đánh vần thị ngoại thị trường nhiều lắm - nhưng mình muốn in vài câu -từ ngắn của riêng mình, để cháu có thể đồ theo và tập viết. Các câu chuyện bé thích, các câu nói của các nhân vật trong truyện - khi được in sẵn - sẽ tăng độ thích thú cho cháu tập viết.
+
+Việc học viết và rèn chữ đẹp cũng sẽ trở nên dễ dàng hơn khi phụ huynh tự in các bài cho cháu - đặc biệt - đa số phụ huynh bây giờ có thể dàn trang và in ra cho cháu."
+
+Với Unitapviet bạn có thể làm được gì?
+
+Như bạn thấy trong hình dưới, tất cả các chữ cái đều được vẽ bằng các đường đứt nét (để cho trẻ đồ theo) và có hình dáng theo đúng chuẩn chữ viết trong trường tiểu học do BGD ban hành.
+
+Với bộ font chữ Unitapviet và các tiện ích đi kèm với nó, bạn có thể:
+
+* Tạo các bài nhận biết chữ cái theo khổ lớn để cháu đồ
+* Dễ dàng in lại nhiều lần các chữ trẻ viết còn xấu để luyện viết thêm, điều đó đồng nghĩa với việc bạn tiết kiệm được một khoản chi phí
+* Tạo những bài tập viết là tên của trẻ, câu thơ hay ... những gì gần gũi, vui vẻ và có ý nghĩa với trẻ; tạo sự hứng thú cho trẻ vào những giờ tập viết, những giờ ngồi học cùng với bạn.
+
+Mọi thư từ, liên hệ xin vui lòng qua địa chỉ:
+
+Email: unitapviet@gmail.com
+dzunglee.saigon@gmail.com

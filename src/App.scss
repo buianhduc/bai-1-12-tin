@@ -1,0 +1,27 @@
+*{
+    background-color: darkblue;
+    color: yellow;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    #follow{
+        font-size: 250px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    };
+    #result{
+        font-size: 50px;
+    }
+    #title{
+        font-size: 40px;
+    }
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
