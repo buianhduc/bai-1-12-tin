@@ -5,7 +5,7 @@ import PlayScreen from './screens/playScreen';
 import StartingScreen from './screens/startingScreen'
 
 function App() {
-  return <PlayScreen/>
+  return <StartingScreen/>
 }
 
 export default App;

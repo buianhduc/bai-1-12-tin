@@ -8,48 +8,48 @@
     font-family: "font-tieu-hoc";
     
 }
-.startingScreen > h1::after{
-    content: ""; // ::before and ::after both require content
-    position: absolute;
-    top: 0;
-    left: 50%;
-    width: 90%;
-    height: 110%;
-    background-color: #333;
-    transform: skew(-15deg)
-               translateX(-50%);
-    // background-image: linear-gradient(120deg, #eaee44, #33d0ff);
-    opacity: .7;
-    z-index: -1;
-}
-.startingScreen::before{
-    transform: skew(-15deg) 
-               translateX(-50%);
-}
-.startingScreen{
-    z-index: 1;
-    overflow:hidden;
-    h1,h2{
-        z-index:100;
-        color:white;
-        position: relative;
-        opacity: 1;
-        padding: 0.5em;
-    }
-    height: 100vh;
-    width: 50vw;
-    position: relative;
-    text-align: center;
-    button{
-        background-color: yellowgreen;
-        font-size: 1.5em;
-        padding: 20px 20px;
-        text-align: center;
-        text-decoration: none;
-        border: none;
+// .startingScreen > h1::after{
+//     content: ""; // ::before and ::after both require content
+//     position: absolute;
+//     top: 0;
+//     left: 50%;
+//     width: 90%;
+//     height: 110%;
+//     background-color: #333;
+//     transform: skew(-15deg)
+//                translateX(-50%);
+//     // background-image: linear-gradient(120deg, #eaee44, #33d0ff);
+//     opacity: .7;
+//     z-index: -1;
+// }
+// .startingScreen::before{
+//     transform: skew(-15deg) 
+//                translateX(-50%);
+// }
+// .startingScreen{
+//     z-index: 1;
+//     overflow:hidden;
+//     h1,h2{
+//         z-index:100;
+//         color:white;
+//         position: relative;
+//         opacity: 1;
+//         padding: 0.5em;
+//     }
+//     height: 100vh;
+//     width: 50vw;
+//     position: relative;
+//     text-align: center;
+//     button{
+//         background-color: yellowgreen;
+//         font-size: 1.5em;
+//         padding: 20px 20px;
+//         text-align: center;
+//         text-decoration: none;
+//         border: none;
         
-    }
-}
+//     }
+// }
 .app{
     display: flex;
     flex-direction: column;
