@@ -10,22 +10,25 @@ let rng = Math.floor(Math.random()*26) + 65;
   let nextChar = String.fromCharCode(rng);
   useKeyPress(key => {
     console.log(key);
-    if(key == follow){
+    if(key === follow){
 			setResult("Đúng rồi");
 			setScore(score+1);
 		}
 		else{
 			setResult("Sai rồi");
 			setScore(0);
+      //
 		}
     console.log(String.fromCharCode(rng));
     setFollow(nextChar);
   })
   return (
     <div className="app">
-      <title>Luyện tập bấm máy</title>
-      <center id="title">Hãy gõ các phím như trên màn hình!</center>
-	    <div id="points">Số điểm: {score}</div>
+      <nav>           
+        <center id="title">Hãy gõ các phím như trên màn hình!</center>
+        <div id="points">Số điểm: {score}</div>
+      </nav>
+      
       <h1 id="follow">{follow}</h1>
       
       <h2 id="result">{result}</h2>
