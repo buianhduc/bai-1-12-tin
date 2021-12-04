@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import useKeyPress from '../hooks/useKeyPress';
-
+import {useNavigate} from 'react-router-dom';
 
 function PlayScreen (){
 let rng = Math.floor(Math.random()*26) + 65;
@@ -8,6 +8,8 @@ let rng = Math.floor(Math.random()*26) + 65;
   const [follow, setFollow] = useState('A');
   const [result, setResult] = useState();
   let nextChar = String.fromCharCode(rng);
+  let navigate = useNavigate();
+  const endScreen = scr => navigate(`/end/${scr}`);
   useKeyPress(key => {
     console.log(key);
     if(key === follow){
@@ -15,9 +17,9 @@ let rng = Math.floor(Math.random()*26) + 65;
 			setScore(score+1);
 		}
 		else{
+      endScreen(score);
 			setResult("Sai rồi");
 			setScore(0);
-      //
 		}
     console.log(String.fromCharCode(rng));
     setFollow(nextChar);
